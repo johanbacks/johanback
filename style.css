@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  height: 100vh;
+  box-sizing: border-box;
+  background-color: black;
+  color: white;
+}
+
+.destaque {
+  color: #4EA13A;
+}
+
+img {
+  border-radius: 3%;
+}
+.apresentacao{
+  display: flex;
+  align-items: center;
+}
